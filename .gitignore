@@ -1,0 +1,15 @@
+*~
+*.pyc
+*.sqlite3
+.ropeproject
+.idea
+env
+*.csv
+*.tsv
+logs/
+!examples/*.html
+!examples/*.csv
+!hits/tests/resources/*.csv
+!hits/tests/resources/*.html
+.DS_Store
+AWSCLIV2.pkg
